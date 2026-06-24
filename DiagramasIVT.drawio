@@ -1697,7 +1697,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="M29RNHcDuO6PdsZXlVvI-255" parent="sPxY-IYVlKmMqRY_Yk-8-1" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" value="DETALLE_PERSONAL" vertex="1">
-          <mxGeometry height="150" width="180" x="680" y="-2320" as="geometry" />
+          <mxGeometry height="150" width="180" x="590" y="-2310" as="geometry" />
         </mxCell>
         <mxCell id="M29RNHcDuO6PdsZXlVvI-256" parent="M29RNHcDuO6PdsZXlVvI-255" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" value="" vertex="1">
           <mxGeometry height="30" width="180" y="30" as="geometry" />
@@ -1752,7 +1752,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="M29RNHcDuO6PdsZXlVvI-268" parent="sPxY-IYVlKmMqRY_Yk-8-1" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" value="DETALLE_HERRANIENTAS" vertex="1">
-          <mxGeometry height="150" width="200" x="1070" y="-2320" as="geometry" />
+          <mxGeometry height="150" width="200" x="1130" y="-2430" as="geometry" />
         </mxCell>
         <mxCell id="M29RNHcDuO6PdsZXlVvI-269" parent="M29RNHcDuO6PdsZXlVvI-268" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" value="" vertex="1">
           <mxGeometry height="30" width="200" y="30" as="geometry" />
