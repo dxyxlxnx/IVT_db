@@ -1771,7 +1771,7 @@
             <mxRectangle height="30" width="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PNW3BKUzmyUzpO_YWJ3V-14" parent="PNW3BKUzmyUzpO_YWJ3V-12" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" value="TIPO_RUTA VARCHAR(10)&amp;nbsp;" vertex="1">
+        <mxCell id="PNW3BKUzmyUzpO_YWJ3V-14" parent="PNW3BKUzmyUzpO_YWJ3V-12" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-weight: 700; text-decoration: underline;&quot;&gt;ID_TIPO_RUTA&amp;nbsp; INT&amp;nbsp;&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="150" x="30" as="geometry">
             <mxRectangle height="30" width="150" as="alternateBounds" />
           </mxGeometry>
