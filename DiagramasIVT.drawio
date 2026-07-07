@@ -416,7 +416,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Copia de Copia de DFD-Procesos" id="c6OiRm5jRgwHQsqfqH15">
-    <mxGraphModel dx="3264" dy="4304" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3890" dy="4614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="sPxY-IYVlKmMqRY_Yk-8-0" />
         <mxCell id="sPxY-IYVlKmMqRY_Yk-8-1" parent="sPxY-IYVlKmMqRY_Yk-8-0" />
@@ -1090,7 +1090,7 @@
         <mxCell id="M29RNHcDuO6PdsZXlVvI-62" edge="1" parent="sPxY-IYVlKmMqRY_Yk-8-1" source="J0vMs32SQbGg8RhfQzH4-308" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="J0vMs32SQbGg8RhfQzH4-321">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="J0vMs32SQbGg8RhfQzH4-308" parent="sPxY-IYVlKmMqRY_Yk-8-1" style="shape=table;startSize=25;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" value="Tipo_SolicitudArea" vertex="1">
+        <mxCell id="J0vMs32SQbGg8RhfQzH4-308" parent="sPxY-IYVlKmMqRY_Yk-8-1" style="shape=table;startSize=25;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" value="Tipo_Solicitud_Area" vertex="1">
           <mxGeometry height="120" width="180" x="-78.18000000000002" y="-1890" as="geometry" />
         </mxCell>
         <mxCell id="J0vMs32SQbGg8RhfQzH4-309" parent="J0vMs32SQbGg8RhfQzH4-308" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" value="" vertex="1">
@@ -1841,7 +1841,7 @@
             <mxPoint x="-310" y="-1960" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XrGuI421C98VxyTBYNjh-13" parent="sPxY-IYVlKmMqRY_Yk-8-1" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="Empleados" vertex="1">
+        <mxCell id="XrGuI421C98VxyTBYNjh-13" parent="sPxY-IYVlKmMqRY_Yk-8-1" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="Planilla_Empleados" vertex="1">
           <mxGeometry height="175" width="180" x="433" y="-2310" as="geometry" />
         </mxCell>
         <mxCell id="XrGuI421C98VxyTBYNjh-14" parent="XrGuI421C98VxyTBYNjh-13" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" value="" vertex="1">
@@ -1930,7 +1930,7 @@
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <Array as="points">
               <mxPoint x="-140" y="-2045" />
-              <mxPoint x="-130" y="-1595" />
+              <mxPoint x="-130" y="-1565" />
             </Array>
             <mxPoint x="-80" y="-1790" as="sourcePoint" />
             <mxPoint x="-30" y="-1840" as="targetPoint" />
@@ -2196,7 +2196,7 @@
             <mxRectangle height="30" width="150" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NuYlLcqY2lpbjGPs-0kK-129" parent="sPxY-IYVlKmMqRY_Yk-8-1" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Camiones " vertex="1">
+        <mxCell id="NuYlLcqY2lpbjGPs-0kK-129" parent="sPxY-IYVlKmMqRY_Yk-8-1" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Cuadrilla_Camiones " vertex="1">
           <mxGeometry height="120" width="180" x="1840" y="-2790" as="geometry" />
         </mxCell>
         <mxCell id="NuYlLcqY2lpbjGPs-0kK-130" parent="NuYlLcqY2lpbjGPs-0kK-129" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" value="" vertex="1">
@@ -2472,7 +2472,7 @@
             <mxRectangle height="30" width="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XmsRnpD2xdZLhdGOg5d2-49" parent="XmsRnpD2xdZLhdGOg5d2-47" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;CI_Empleado&lt;/span&gt;" vertex="1">
+        <mxCell id="XmsRnpD2xdZLhdGOg5d2-49" parent="XmsRnpD2xdZLhdGOg5d2-47" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;COD_ANUNCIO AUTOENCREMENT&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="150" x="30" as="geometry">
             <mxRectangle height="30" width="150" as="alternateBounds" />
           </mxGeometry>
