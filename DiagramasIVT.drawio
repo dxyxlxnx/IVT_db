@@ -1083,7 +1083,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Copia de Copia de DFD-Procesos" id="c6OiRm5jRgwHQsqfqH15">
-    <mxGraphModel dx="2459" dy="3905" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2039" dy="3869" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="sPxY-IYVlKmMqRY_Yk-8-0" />
         <mxCell id="sPxY-IYVlKmMqRY_Yk-8-1" parent="sPxY-IYVlKmMqRY_Yk-8-0" />
@@ -2244,7 +2244,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="em7hXClw-wUDPE9btedU-5" parent="sPxY-IYVlKmMqRY_Yk-8-1" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Cuadrilla_empleados_DETALLE" vertex="1">
-          <mxGeometry height="120" width="190" x="1000" y="-2020" as="geometry" />
+          <mxGeometry height="90" width="190" x="1000" y="-2020" as="geometry" />
         </mxCell>
         <mxCell id="em7hXClw-wUDPE9btedU-6" parent="em7hXClw-wUDPE9btedU-5" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" value="" vertex="1">
           <mxGeometry height="30" width="190" y="30" as="geometry" />
@@ -2272,20 +2272,7 @@
             <mxRectangle height="30" width="150" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7Db-B_41JIoDlm01dZ3N-0" parent="em7hXClw-wUDPE9btedU-5" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" vertex="1">
-          <mxGeometry height="30" width="190" y="90" as="geometry" />
-        </mxCell>
-        <mxCell id="7Db-B_41JIoDlm01dZ3N-1" parent="7Db-B_41JIoDlm01dZ3N-0" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;whiteSpace=wrap;html=1;" value="FK" vertex="1">
-          <mxGeometry height="30" width="40" as="geometry">
-            <mxRectangle height="30" width="40" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="7Db-B_41JIoDlm01dZ3N-2" parent="7Db-B_41JIoDlm01dZ3N-0" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-weight: 700; text-decoration: underline;&quot;&gt;COD_Cuadrilla_C&lt;/span&gt;" vertex="1">
-          <mxGeometry height="30" width="150" x="40" as="geometry">
-            <mxRectangle height="30" width="150" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="em7hXClw-wUDPE9btedU-12" edge="1" parent="sPxY-IYVlKmMqRY_Yk-8-1" source="M29RNHcDuO6PdsZXlVvI-256" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" target="7Db-B_41JIoDlm01dZ3N-0" value="">
+        <mxCell id="em7hXClw-wUDPE9btedU-12" edge="1" parent="sPxY-IYVlKmMqRY_Yk-8-1" source="M29RNHcDuO6PdsZXlVvI-256" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;entryX=0.022;entryY=0.521;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryPerimeter=0;" target="em7hXClw-wUDPE9btedU-6" value="">
           <mxGeometry relative="1" width="80" as="geometry">
             <mxPoint x="940" y="-2150" as="sourcePoint" />
             <mxPoint x="1020" y="-2150" as="targetPoint" />
