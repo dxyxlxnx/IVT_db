@@ -1083,7 +1083,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Copia de Copia de DFD-Procesos" id="c6OiRm5jRgwHQsqfqH15">
-    <mxGraphModel dx="5125" dy="5981" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2534" dy="3960" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="sPxY-IYVlKmMqRY_Yk-8-0" />
         <mxCell id="sPxY-IYVlKmMqRY_Yk-8-1" parent="sPxY-IYVlKmMqRY_Yk-8-0" />
@@ -1798,7 +1798,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="NuYlLcqY2lpbjGPs-0kK-18" parent="sPxY-IYVlKmMqRY_Yk-8-1" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="Sondeo_detalle" vertex="1">
-          <mxGeometry height="210" width="180" x="590.44" y="-1520" as="geometry" />
+          <mxGeometry height="210" width="180" x="647" y="-1550" as="geometry" />
         </mxCell>
         <mxCell id="NuYlLcqY2lpbjGPs-0kK-19" parent="NuYlLcqY2lpbjGPs-0kK-18" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" value="" vertex="1">
           <mxGeometry height="30" width="180" y="30" as="geometry" />
